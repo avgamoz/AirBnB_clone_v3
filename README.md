@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Akinsola Babajide Amos - [Github](https://github.com/avgamoz)   
-Gabriel Eye - [Github](https://github.com/Gabrieleye) 
+Gabriel Eye - [Github](https://github.com/Boredstray) 
 
 
 ## License
