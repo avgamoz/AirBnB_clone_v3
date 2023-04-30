@@ -1,5 +1,8 @@
 #!/usr/bin/python3
-""" Index file for the api"""
+""" 
+Index file for the api
+"""
+
 from models.amenity import Amenity
 from models.city import City
 from models.place import Place
