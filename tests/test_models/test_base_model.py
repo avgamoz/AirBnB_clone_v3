@@ -16,7 +16,6 @@ module_doc = models.base_model.__doc__
 
 class TestBaseModelDocs(unittest.TestCase):
     """Tests to check the documentation and style of BaseModel class"""
-
     @classmethod
     def setUpClass(self):
         """Set up for docstring tests"""
