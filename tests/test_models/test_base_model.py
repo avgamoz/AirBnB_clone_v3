@@ -2,7 +2,6 @@
 """
 Test BaseModel for expected behavior and documentation
 """
-
 from datetime import datetime
 import inspect
 import models
