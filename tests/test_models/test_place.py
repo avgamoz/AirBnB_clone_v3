@@ -14,7 +14,7 @@ Place = place.Place
 
 
 class TestPlaceDocs(unittest.TestCase):
-    """Tests to check the documentation and style of Place class"""    
+    """Tests to check the documentation and style of Place class"""
     @classmethod
     def setUpClass(cls):
         """Set up for the doc tests"""
