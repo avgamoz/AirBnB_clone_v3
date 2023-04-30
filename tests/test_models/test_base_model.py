@@ -1,8 +1,5 @@
 #!/usr/bin/python3
-"""
-Test BaseModel for expected behavior and documentation
-"""
-
+"""Test BaseModel for expected behavior and documentation"""
 from datetime import datetime
 import inspect
 import models
@@ -16,6 +13,7 @@ module_doc = models.base_model.__doc__
 
 class TestBaseModelDocs(unittest.TestCase):
     """Tests to check the documentation and style of BaseModel class"""
+
     @classmethod
     def setUpClass(self):
         """Set up for docstring tests"""
