@@ -15,6 +15,7 @@ State = state.State
 
 class TestStateDocs(unittest.TestCase):
     """Tests to check the documentation and style of State class"""
+    
     @classmethod
     def setUpClass(cls):
         """Set up for the doc tests"""
